@@ -1,0 +1,83 @@
+.navbar-nav{
+    text-align: justify;
+    padding-left: 15rem;
+}
+.fa-square-facebook{
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    align-content: center;
+    padding-left: 12px;
+    
+}
+.fa-square-facebook::after,::before{
+    display: flex;
+    align-items: center;
+}
+.fa-square-facebook:hover{
+    background-color: rgb(31, 70, 177);
+    transition-duration: 550ms;
+}
+.fa-instagram{
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    align-content: center;
+    padding-left: 12px;
+}
+.fa-instagram::after,::before{
+    box-sizing: border-box;
+    align-items: center;
+}
+.fa-instagram:hover{
+    background-color: rgb(170, 30, 25);
+    transition-duration: 550ms; 
+}
+.fa-x-twitter{
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    align-content: center;
+    padding-left: 10px;
+}
+.fa-x-twitter::after,::before{
+    box-sizing: border-box;
+    align-items: center;
+}
+.fa-x-twitter:hover{
+    background-color: rgb(80, 40, 25);
+    transition-duration: 550ms; 
+}
+.fa-square-whatsapp{
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    align-content: center;
+    padding-left: 12px;
+}
+.fa-square-whatsapp::after,::before{
+    box-sizing: border-box;
+    align-items: center;
+}
+.fa-square-whatsapp:hover{
+    background-color: rgb(63, 179, 59);
+    transition-duration: 550ms; 
+}
+.fa-linkedin{
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    align-content: center;
+    padding-left: 12px;
+}
+.fa-linkedin::after,::before{
+    box-sizing: border-box;
+    align-items: center;
+}
+.fa-linkedin:hover{
+    background-color: rgb(43, 116, 212);
+    transition-duration: 550ms; 
+}
+
+
+
